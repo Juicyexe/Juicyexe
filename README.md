@@ -1,3 +1,4 @@
 ### 𝗛𝗶
 
-### 𝗙𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗹𝗼𝗼𝗸 𝗮𝗿𝗼𝘂𝗻𝗱 𝗺𝘆 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀, 𝘆𝗼𝘂 𝗺𝗶𝗴𝗵𝘁 𝗳𝗶𝗻𝗱 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caffeine01](https://github.com/anuraghazra/github-readme-stats)
+
